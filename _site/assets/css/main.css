@@ -4713,24 +4713,24 @@ body {
 	display: table
 }
 
-/* @media (min-width: 64em) { */
-	/* .sidebar { */
-		/* float: left; */
-		/* width: calc(200px - 1em); */
-		/* opacity: 1; */
-		/* -webkit-transition: opacity 0.2s ease-in-out; */
-		/* transition: opacity 0.2s ease-in-out */
-	/* } */
+@media (min-width: 64em) {
+	.sidebar {
+		float: left;
+		width: calc(200px - 1em);
+		opacity: 1;
+		-webkit-transition: opacity 0.2s ease-in-out;
+		transition: opacity 0.2s ease-in-out
+	}
 
-	/* .sidebar:hover { */
-		/* opacity: 1 */
-	/* } */
+	.sidebar:hover {
+		opacity: 1
+	}
 
-	/* .sidebar.sticky { */
-		/* overflow-y: auto; */
-		/* max-height: calc(100vh - 2em - 2em) */
-	/* } */
-/* } */
+	.sidebar.sticky {
+		overflow-y: auto;
+		max-height: calc(100vh - 2em - 2em)
+	}
+}
 
 @media (min-width: 80em) {
 	.sidebar {
