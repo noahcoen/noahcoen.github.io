@@ -121,7 +121,7 @@ author:
   email            :
   links:
     - label: "[ˈno͡ʊ.ə ˈko͡ʊ.ɪ̃n]"
-      icon: "fab fa-fw fa-volume"
+      icon: "fas fa-fw fa-comment"
       url: ""
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
