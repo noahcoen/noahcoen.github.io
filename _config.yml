@@ -117,12 +117,16 @@ author:
   name             : "Noah Coen"
   avatar           : /images/bio-photo.jpeg
   bio              : "Linguist at UCLA"
+  links:
+  - label: "[ˈno͡ʊ.ə ˈko͡ʊ.ɪ̃n]"
+    icon: "fas fa-fw fa-comment"
+    url: ""
   location         : "Los Angeles"
   email            :
   links:
-    - label: "[ˈno͡ʊ.ə ˈko͡ʊ.ɪ̃n]"
-      icon: "fas fa-fw fa-comment"
-      url: ""
+    # - label: "[ˈno͡ʊ.ə ˈko͡ʊ.ɪ̃n]"
+    #   icon: "fas fa-fw fa-comment"
+    #   url: ""
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
