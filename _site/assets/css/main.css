@@ -17,8 +17,8 @@
 	overflow: hidden;
 	position: fixed;
 	background: #000;
-	opacity: .8;
-	filter: alpha(opacity=80)
+	opacity: .9;
+	filter: alpha(opacity=90)
 }
 
 .mfp-wrap {
@@ -258,7 +258,7 @@ button::-moz-focus-inner {
 .mfp-arrow .mfp-b {
 	border-top-width: 21px;
 	border-bottom-width: 21px;
-	opacity: 0.7
+	opacity: 0.9
 }
 
 .mfp-arrow-left {
@@ -4717,7 +4717,7 @@ body {
 	.sidebar {
 		float: left;
 		width: calc(200px - 1em);
-		opacity: 0.90;
+		opacity: 0.9;
 		-webkit-transition: opacity 0.2s ease-in-out;
 		transition: opacity 0.2s ease-in-out
 	}
