@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Noah Coen"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Linguist at UCLA"
   location         : "Los Angeles"
   email            :
