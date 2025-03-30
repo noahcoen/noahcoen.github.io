@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Noah Coen. Linguist.
